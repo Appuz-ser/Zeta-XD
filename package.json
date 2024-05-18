@@ -1,5 +1,5 @@
 {
-  "name": "Zeta-XD",
+  "name": "APPU VFX",
   "version": "1.0.0",
   "description": "Zeta-XD simple multi device WhatsApp Bot.",
   "main": "./index.js",
@@ -18,8 +18,8 @@
     "Zeta",
     "sparkyapi"
   ],
-  "author": "Zeta-XD",
-  "developer": "Zeta",
+  "author": "APPU-VFX",
+  "developer": "KURIAN",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/Zeta-XD/ezraa/issues"
